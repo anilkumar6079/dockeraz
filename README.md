@@ -1,2 +1,3 @@
 # dockeraz
-git for docker commit
+git for docker commit , Now im coming from VSCode
+
